@@ -1,0 +1,6 @@
+path: D:/DPO/ObjectDetection/dataset/
+train: images/train
+val: images/val
+
+nc: 12
+names: ['animal', 'barrier', 'bench',  'bike',  'car',  'crosswalk',  'green_light',  'person',  'pole',  'red_light',  'scooter',  'truck']
